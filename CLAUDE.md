@@ -10,7 +10,7 @@ This repo holds the written knowledge for **Little Sweet Cafe**: staff training 
 | Address | Shop 10/2 Elkhorn Ave, Surfers Paradise QLD 4217 (Gold Coast, Australia) |
 | Phone | +61 420 995 185 |
 | Hours | 11:30 am – 10:30 pm, 7 days (from Square location settings) |
-| Service | Dine-in and takeaway/pickup. Online ordering through Square Online (`/s/order`). No delivery through Square. |
+| Service | Dine-in and takeaway/pickup. Online ordering through Square Online (`/s/order`). No delivery through Square; delivery is through **Uber Eats** (some items are packed differently for Uber, e.g. soufflé pancakes: 2 pieces, no ice cream). |
 | Website | https://littlesweetcafe.com.au (Square Online, merchant `MLGYXZYEKKJH1`) |
 | Social | Instagram and Facebook: `@littlesweetcafegc` |
 | Brand colour | Pink `#e96389` |
