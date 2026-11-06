@@ -27,7 +27,7 @@ Use the fruit sauce that matches the order:
 - Fruit sauce: **60 ml** (6 pumps or 2 shots)
 - Sugar syrup: **15 ml** (half a shot)
 - Ice: **1 scoop**
-- Tea: fill to the top. TODO(owner): which tea, and is it made in advance?
+- Tea (made in advance): fill to the top. The tea recipe is not in these docs.
 
 !!! warning "⚠️ Warning: allergens"
     - Fruit sauces: check each bottle label.
