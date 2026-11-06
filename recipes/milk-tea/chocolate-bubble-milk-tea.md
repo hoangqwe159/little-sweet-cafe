@@ -15,6 +15,7 @@ Make it look like this photo.
 
 - Cocoa powder: **1 tbsp**
 - Coffee-mate: **1 spoon**
+- Sugar syrup: **1.5 shots** (45 ml)
 - Fresh milk: TODO(owner) ml
 - Pearls: **1.5 scoops**
 - Ice: **1 scoop**

@@ -15,6 +15,7 @@ Make it look like this photo.
 
 - Matcha powder: **6 g** (1.5 spoons)
 - Coffee-mate: **1 spoon**
+- Sugar syrup: **1.5 shots** (45 ml)
 - Fresh milk: TODO(owner) ml
 - Pearls: **1.5 scoops**
 - Ice: **1 scoop**

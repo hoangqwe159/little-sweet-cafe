@@ -30,16 +30,17 @@ Taro, Matcha, Matcha Red Bean, Chocolate and Super Oreo use a powder base made w
     - **Matcha:** 6 g of matcha powder (1.5 spoons)
     - **Chocolate:** 1 tbsp cocoa powder
 2. Add **1 spoon** of Coffee-mate.
-3. Add fresh milk. TODO(owner): how much (ml).
-4. Shake well until the powder is fully mixed in.
+3. **Matcha and chocolate:** add **1.5 shots** (45 ml) of sugar syrup.
+4. Add fresh milk. TODO(owner): how much (ml).
+5. Shake well until the powder is fully mixed in.
 
-TODO(owner): is the "spoon" for taro powder and Coffee-mate a teaspoon or a tablespoon?
+TODO(owner): is the "spoon" for taro powder and Coffee-mate a teaspoon or a tablespoon? Does the taro base also get sugar syrup?
 
 ## Which drink uses what
 
 - **Milk tea (made in advance):** Classic, Oreo Cream Cheese
 - **Fresh milk + brown sugar syrup:** Brown Sugar
-- **Powder base:** Taro, Matcha, Matcha Red Bean, Chocolate, Super Oreo
+- **Powder base:** Taro, Matcha, Matcha Red Bean, Chocolate, Super Oreo, Matcha Strawberry
 - **Coffee (made in advance):** Little Sweet Coffee
 
 ## Drink toppings
@@ -72,3 +73,4 @@ TODO(owner): which drinks are sealed with the sealer, and which get a lid (for e
 - [Oreo Cream Cheese Bubble Milk Tea](oreo-cream-cheese-bubble-milk-tea.md)
 - [Super Oreo Bubble Milk Tea](super-oreo-bubble-milk-tea.md)
 - [Little Sweet Coffee](little-sweet-coffee.md)
+- [Matcha Strawberry](matcha-strawberry.md)
