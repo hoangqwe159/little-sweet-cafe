@@ -30,11 +30,11 @@ Taro, Matcha, Matcha Red Bean, Chocolate and Super Oreo use a powder base made w
     - **Matcha:** 6 g of matcha powder (1.5 spoons)
     - **Chocolate:** 1 tbsp cocoa powder
 2. Add **1 spoon** of Coffee-mate.
-3. **Matcha and chocolate:** add **1.5 shots** (45 ml) of sugar syrup.
+3. Add **1.5 shots** (45 ml) of sugar syrup.
 4. Add fresh milk. TODO(owner): how much (ml).
 5. Shake well until the powder is fully mixed in.
 
-TODO(owner): is the "spoon" for taro powder and Coffee-mate a teaspoon or a tablespoon? Does the taro base also get sugar syrup?
+TODO(owner): is the "spoon" for taro powder and Coffee-mate a teaspoon or a tablespoon?
 
 ## Which drink uses what
 

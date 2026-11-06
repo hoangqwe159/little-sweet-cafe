@@ -23,16 +23,16 @@ This repo holds the written knowledge for **Little Sweet Cafe**: staff training 
 
 Square is the source of truth for prices, so check it before quoting a price in any document. The figures below are for reference only.
 
-- **Soufflé pancakes** ($21.90): Strawberry, Oreo, Matcha, Brown Sugar with Pearls, Biscoff. Pork Floss Soufflé Pancake ($25.80).
+- **Soufflé pancakes** ($21.90): Strawberry, Oreo, Matcha, Brown Sugar with Pearls, Biscoff. (Pork Floss Soufflé Pancake is discontinued but still listed online.)
 - **Bubble waffles** ($10.80–$18.30): Original, Chocolate, Banana, Oreo, Strawberry, Caramel Banana, Matcha Red Bean, Super Oreo, White Strawberry, Dark Strawberry, Rainbow, Devil.
 - **Bingsu** ($18.30): Original, Strawberry, Brownie, Oreo, Matcha.
 - **Cutie Puff** ($9.90) and **Egg Yaki** ($14.90).
 - **Milk tea** ($7.80–$10.80): Classic, Brown Sugar, Taro, Matcha, Matcha Red Bean, Chocolate, Oreo Cream Cheese, Super Oreo, Little Sweet Coffee.
 - **Iced tea** ($8.00): Grape, Passionfruit, Lychee, Peach, Grapefruit, Mango.
-- **Frappe** ($9.80–$10.80): Mango, Matcha, Grape, Strawberry, Oreo, Berrynana.
-- **Yoghurt drinks** ($10.80): Red Bean, Peach, Lychee, Strawberry, Oreo, Mango, Banana, Berrynana.
+- **Frappe** ($9.80): Mango, Matcha, Grape, Strawberry, Oreo. (Berrynana is discontinued but still listed online.)
+- **Yoghurt drinks:** discontinued, but all 7 are still listed online.
 - **Milkshakes** ($10.50): Vanilla, Mango, Caramel, Strawberry, Chocolate.
-- **Add-ons and other:** ice cream $2, waffle extras, takeaway container $0.80, box $0.50, extra cup $0.50, water $4.20, Matcha Strawberry $9, Unicorn plush toy $20.
+- **Add-ons and other:** ice cream $3.50 per scoop (owner, Nov 2026; Square shows $2–$3), waffle extras, takeaway container $0.80, box $0.50, extra cup $0.50, water $4.20, Matcha Strawberry $9, Unicorn plush toy $20.
 
 ## Repo layout
 

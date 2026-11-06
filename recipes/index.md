@@ -17,5 +17,4 @@ Square is the source of truth for prices. These cards don't list prices.
 - [Iced Tea](iced-tea/index.md)
 - [Frappe](frappe/index.md)
 - [Milkshake](milkshake/index.md)
-
-More sections are added as they are written.
+- [Ice Cream](ice-cream/index.md)
