@@ -12,9 +12,10 @@ Square is the source of truth for prices. These cards don't list prices.
 - [Bubble Waffles](waffles/index.md)
 - [Soufflé Pancakes](souffle-pancakes/index.md)
 - [Bingsu](bingsu/index.md)
+- [Cutie Puff and Egg Yaki](cutie-puff-egg-yaki/index.md)
 - [Milk Tea](milk-tea/index.md)
 - [Iced Tea](iced-tea/index.md)
 - [Frappe](frappe/index.md)
 - [Milkshake](milkshake/index.md)
 
-More sections are added as they are written: Cutie Puff and Egg Yaki.
+More sections are added as they are written.
