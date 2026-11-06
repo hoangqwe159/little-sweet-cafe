@@ -14,5 +14,7 @@ Square is the source of truth for prices. These cards don't list prices.
 - [Bingsu](bingsu/index.md)
 - [Milk Tea](milk-tea/index.md)
 - [Iced Tea](iced-tea/index.md)
+- [Frappe](frappe/index.md)
+- [Milkshake](milkshake/index.md)
 
-More sections are added as they are written: Cutie Puff and Egg Yaki, frappes, milkshakes and yoghurt drinks.
+More sections are added as they are written: Cutie Puff and Egg Yaki.
