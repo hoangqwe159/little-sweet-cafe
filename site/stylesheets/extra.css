@@ -1,23 +1,175 @@
-/* Brand pink #e96389 */
-:root,
-[data-md-color-scheme="default"],
-[data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #e96389;
-  --md-primary-fg-color--light: #f08fab;
-  --md-primary-fg-color--dark: #c94a6f;
-  --md-accent-fg-color: #c94a6f;
+/*
+ * Little Sweet Cafe docs theme
+ * Matches the Square Online site (littlesweetcafe.com.au):
+ *   primary  #e96389  (brand pink)
+ *   soft red #b2858e  (secondary, used for muted accents)
+ *   caramel  #bb8650  (secondary, used for highlights)
+ *   headings Quicksand 700, body Larsseit (DM Sans used here as a free stand-in)
+ *   radius   buttons 8px, cards 4px, images 16px
+ * See site/guide/style-guide.md before changing anything here.
+ */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&display=swap");
+
+:root {
+  --lsc-pink: #e96389;
+  --lsc-pink-light: #f08fab;
+  --lsc-pink-dark: #c94a6f;
+  --lsc-pink-soft: #fdeef3;
+  --lsc-soft-red: #b2858e;
+  --lsc-caramel: #bb8650;
+  --lsc-radius-button: 8px;
+  --lsc-radius-card: 4px;
+  --lsc-radius-image: 16px;
+  --lsc-heading-font: "Quicksand", "DM Sans", system-ui, sans-serif;
+}
+
+/* ---------- Colour scheme ---------- */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--lsc-pink);
+  --md-primary-fg-color--light: var(--lsc-pink-light);
+  --md-primary-fg-color--dark: var(--lsc-pink-dark);
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: var(--lsc-pink-dark);
+  --md-typeset-a-color: var(--lsc-pink-dark);
 }
 
 [data-md-color-scheme="slate"] {
-  --md-accent-fg-color: #f08fab;
+  --md-primary-fg-color: var(--lsc-pink);
+  --md-primary-fg-color--light: var(--lsc-pink-light);
+  --md-primary-fg-color--dark: var(--lsc-pink-dark);
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: var(--lsc-pink-light);
+  --md-typeset-a-color: var(--lsc-pink-light);
+  --lsc-pink-soft: #3a2630;
 }
 
-/* Print: drop navigation so SOPs and checklists print cleanly on A4 */
+/* ---------- Typography ---------- */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-header__title,
+.md-tabs__link,
+.md-nav__title {
+  font-family: var(--lsc-heading-font);
+  font-weight: 700;
+}
+
+.md-typeset h1 {
+  color: var(--lsc-pink);
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2 {
+  letter-spacing: -0.01em;
+  border-bottom: 2px solid var(--lsc-pink-soft);
+  padding-bottom: 0.2em;
+}
+
+/* Bigger logo in the header, like the Square site.
+ * The unicorn in the logo PNGs is transparent, not white, so the logos sit on
+ * a white circle. Without it the logo disappears on the pink header and the
+ * unicorn turns dark in dark mode. */
+.md-header__button.md-logo img {
+  height: 2.2rem;
+  width: auto;
+}
+
+.md-header__button.md-logo img,
+.md-typeset img.lsc-logo {
+  background: #ffffff;
+  border-radius: 50% !important;
+}
+
+.md-header__button.md-logo img {
+  box-shadow: 0 0 0 2px #ffffff;
+}
+
+/* ---------- Shapes ---------- */
+.md-typeset .md-button {
+  border-radius: var(--lsc-radius-button);
+  font-family: var(--lsc-heading-font);
+  font-weight: 700;
+}
+
+.md-typeset .md-button--primary {
+  background-color: var(--lsc-pink);
+  border-color: var(--lsc-pink);
+  color: #ffffff;
+}
+
+.md-typeset .admonition,
+.md-typeset details,
+.md-typeset table:not([class]) {
+  border-radius: var(--lsc-radius-card);
+}
+
+.md-typeset img {
+  border-radius: var(--lsc-radius-image);
+}
+
+/* Logos and icons keep their own shape */
+.md-typeset img.lsc-logo,
+.md-header img {
+  border-radius: 0;
+}
+
+/* ---------- Doc header block (purpose, who, when...) ---------- */
+.md-typeset .lsc-meta {
+  background: var(--lsc-pink-soft);
+  border-left: 4px solid var(--lsc-pink);
+  border-radius: var(--lsc-radius-card);
+  padding: 0.6em 1em;
+}
+
+/* ---------- Checklists: big tick boxes that are easy to tap and print ---------- */
+.md-typeset .task-list-control .task-list-indicator::before {
+  background-color: var(--lsc-soft-red);
+}
+
+.md-typeset [type="checkbox"]:checked + .task-list-indicator::before {
+  background-color: var(--lsc-pink);
+}
+
+/* ---------- Homepage ---------- */
+.md-typeset .lsc-hero {
+  text-align: center;
+  padding: 1rem 0 0.5rem;
+}
+
+.md-typeset .lsc-hero img.lsc-logo {
+  width: 160px;
+  height: auto;
+}
+
+.md-typeset .lsc-hero p {
+  color: var(--lsc-soft-red);
+  font-family: var(--lsc-heading-font);
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+/* ---------- Print: plain A4 pages for SOPs and checklists ---------- */
 @media print {
   .md-header,
   .md-tabs,
   .md-sidebar,
-  .md-footer {
+  .md-footer,
+  .md-source-file,
+  .headerlink {
     display: none !important;
+  }
+
+  .md-typeset h1 {
+    color: #000000;
+  }
+
+  .md-typeset .task-list-indicator::before {
+    background-color: #000000 !important;
+  }
+
+  .md-typeset .lsc-meta {
+    background: none;
+    border: 1px solid #000000;
   }
 }

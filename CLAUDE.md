@@ -55,6 +55,7 @@ The `training/`, `procedures/`, `maintenance/`, `recipes/` and `assets/` folders
 - `blog/` is deliberately left out of the docs site so posts don't appear on two domains (the main Square site is the canonical home for blog posts).
 - `CLAUDE.md` is not published on the docs site, but it is visible in the public GitHub repo.
 - Preview locally with `pip install -r requirements-docs.txt` and then `scripts/build-docs.sh serve`. The build runs in `--strict` mode, so broken internal links fail the deploy.
+- The theme copies the Square site: logos and favicon in `site/assets/images/` (taken from the live site), brand colours and fonts in `site/stylesheets/extra.css`. The writer-facing rules and copy-paste components (header block, warning, allergen note, checklist) are in `site/guide/style-guide.md`. Follow it and keep it up to date.
 - The navigation is generated from folders and filenames. Start each doc with an H1, because that becomes its page title.
 - DNS: a `CNAME` record for `docs` points to `hoangqwe159.github.io`. It is managed in the Square Dashboard (the domain's nameservers are register.com, through Square).
 

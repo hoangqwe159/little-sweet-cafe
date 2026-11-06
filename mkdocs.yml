@@ -11,6 +11,14 @@ site_dir: build/site
 theme:
   name: material
   language: en
+  # Same logo and favicon as littlesweetcafe.com.au (copied from the Square site)
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
+  # Body text: DM Sans, a free stand-in for Larsseit (the Square site's body
+  # font, which is a paid font). Headings use Quicksand, loaded in extra.css.
+  font:
+    text: DM Sans
+    code: JetBrains Mono
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -39,10 +47,24 @@ extra_css:
 
 extra:
   homepage: https://littlesweetcafe.com.au/
+  generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/littlesweetcafegc/
+      name: Instagram @littlesweetcafegc
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/littlesweetcafegc/
+      name: Facebook @littlesweetcafegc
+    - icon: material/web
+      link: https://littlesweetcafe.com.au/
+      name: littlesweetcafe.com.au
+
+copyright: Little Sweet Cafe · Shop 10/2 Elkhorn Ave, Surfers Paradise QLD 4217
 
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - tables
   - toc:
       permalink: true
