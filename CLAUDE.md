@@ -43,7 +43,20 @@ maintenance/     Equipment care: waffle irons, soufflé griddle, tea brewers, se
 recipes/         Build cards for each menu item (portions, toppings, assembly order, photo of the finished item)
 blog/            SEO blog posts (drafts and published), one Markdown file per post
 assets/          Images and diagrams used by the docs
+site/            Docs-site-only files: homepage (index.md) and brand CSS
+scripts/         build-docs.sh builds the docs site
 ```
+
+### Staff docs site (docs.littlesweetcafe.com.au)
+
+The `training/`, `procedures/`, `maintenance/`, `recipes/` and `assets/` folders are published as a **public** MkDocs (Material) site on GitHub Pages at https://docs.littlesweetcafe.com.au. Every push to `main` triggers `.github/workflows/docs.yml`, which rebuilds and deploys the site.
+
+- The site is public, so never put secrets, safe codes, alarm codes, supplier pricing, or staff personal details in these folders.
+- `blog/` is deliberately left out of the docs site so posts don't appear on two domains (the main Square site is the canonical home for blog posts).
+- `CLAUDE.md` is not published on the docs site, but it is visible in the public GitHub repo.
+- Preview locally with `pip install -r requirements-docs.txt` and then `scripts/build-docs.sh serve`. The build runs in `--strict` mode, so broken internal links fail the deploy.
+- The navigation is generated from folders and filenames. Start each doc with an H1, because that becomes its page title.
+- DNS: a `CNAME` record for `docs` points to `hoangqwe159.github.io`. It is managed in the Square Dashboard (the domain's nameservers are register.com, through Square).
 
 Create a folder when it is first needed. Use kebab-case filenames, for example `procedures/closing-checklist.md` and `blog/2026-11-best-desserts-surfers-paradise.md`.
 

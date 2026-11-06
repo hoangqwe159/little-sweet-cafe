@@ -1,0 +1,52 @@
+site_name: Little Sweet Cafe Docs
+site_description: Staff training, procedures, maintenance guides and recipes for Little Sweet Cafe, Surfers Paradise.
+site_url: https://docs.littlesweetcafe.com.au/
+
+# MkDocs can't use the repo root as docs_dir, so scripts/build-docs.sh copies
+# the content folders into build/docs first. Run that script; don't run
+# `mkdocs build` directly.
+docs_dir: build/docs
+site_dir: build/site
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - content.action.view
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  homepage: https://littlesweetcafe.com.au/
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.superfences

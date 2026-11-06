@@ -1,0 +1,23 @@
+/* Brand pink #e96389 */
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #e96389;
+  --md-primary-fg-color--light: #f08fab;
+  --md-primary-fg-color--dark: #c94a6f;
+  --md-accent-fg-color: #c94a6f;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-accent-fg-color: #f08fab;
+}
+
+/* Print: drop navigation so SOPs and checklists print cleanly on A4 */
+@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer {
+    display: none !important;
+  }
+}
