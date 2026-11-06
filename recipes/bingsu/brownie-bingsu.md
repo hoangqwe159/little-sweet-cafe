@@ -36,7 +36,7 @@ Make it look like this photo.
 4. Put **1 scoop** of chocolate ice cream on top.
 5. Spray **whipped cream** on top of the ice cream.
 6. Decorate with powder or sauce, as in the photo.
-7. **Uber Eats?** Pack it in a round container and put the ice cream separately. See [Uber Eats](index.md#uber-eats).
+7. **Takeaway or Uber Eats?** Make the bowl size, pack it in a round container and put the ice cream separately. See [Takeaway and Uber Eats](index.md#takeaway-and-uber-eats).
 8. Check that it looks like the photo, then serve.
 
 ## Before serving

@@ -53,13 +53,13 @@ TODO(owner): bingsu machine brand and model, and how long it takes to make the i
 3. Spray **whipped cream** on top of the ice cream.
 4. Decorate with **powder**, as in the photo.
 
-## Uber Eats
+## Takeaway and Uber Eats
+
+Takeaway at the shop and Uber Eats are packed the same way:
 
 1. Make the **bowl** size.
 2. Pack it in a **round container**.
 3. Put the ice cream **separately**.
-
-TODO(owner): how to pack bingsu for takeaway at the shop.
 
 ## Extras
 
