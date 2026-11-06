@@ -74,7 +74,8 @@ Many readers are casual staff, and English may be their second language. Write f
 
 - Filenames are lower case, with words joined by hyphens (`-`). No spaces.
 - The first line of each doc is its `# Title`. The title becomes the page name in the menu.
-- New folders appear in the menu automatically.
+- New top-level folders (for example `training/`) appear in the menu automatically.
+- A new folder **inside** `recipes/` must be added to `recipes/.nav.yml`, which sets the order and names of the Recipes menu.
 
 ## Components
 
@@ -159,6 +160,30 @@ Use this for anything that can hurt someone or make a customer sick. Put it **be
 - [ ] Fridges at 5 °C or below (write the temperature in the log)
 - [ ] Floors mopped
 ```
+
+### Recipe photo
+
+The photo of the finished item goes straight after the title. Add `.lsc-photo`: on a computer it sits beside the header block; on a phone it sits above it.
+
+```markdown
+![Devil Waffle: the finished item](../../assets/recipes/waffles/devil-waffle.png){ .lsc-photo width="320" }
+```
+
+### Photo grid
+
+Use a photo grid to let staff pick an item by its picture (recipe section pages). Each card is a photo and a bold name, both linking to the page.
+
+```markdown
+<div class="grid cards lsc-items" markdown>
+
+-   [![Devil Waffle](../../assets/recipes/waffles/devil-waffle.png)](devil-waffle.md)
+
+    [**Devil Waffle**](devil-waffle.md)
+
+</div>
+```
+
+If there's no photo yet, use `[<span class="lsc-noimg">No photo yet</span>](page.md)` in place of the image.
 
 ### Photo
 

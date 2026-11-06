@@ -1,15 +1,16 @@
 # Brown Sugar Bubble Tea
 
-![Brown Sugar Bubble Tea: the finished drink](../../assets/recipes/milk-tea/brown-sugar-bubble-tea.png){ width="320" }
+![Brown Sugar Bubble Tea: the finished drink](../../assets/recipes/milk-tea/brown-sugar-bubble-tea.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Brown Sugar Bubble Tea the same way every time.
-- **Who does it:** Drinks station staff
-- **When:** Every Brown Sugar Bubble Tea order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Brown Sugar Bubble Tea the same way every time.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every Brown Sugar Bubble Tea order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 cup)
 
@@ -18,7 +19,7 @@ Make it look like this photo.
 - Ice: **1 scoop**
 - Fresh milk: to almost full
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Fresh milk: **milk**.
     - Pearls: check the label.
     - Brown sugar syrup: check the label.

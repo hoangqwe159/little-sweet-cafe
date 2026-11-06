@@ -2,12 +2,68 @@
 
 This page has the method shared by every bubble waffle: cooking, shaping, serving and takeaway. Each waffle has its own card with its ingredients and topping steps.
 
-- **Purpose:** Cook, shape and serve every bubble waffle the same way.
-- **Who does it:** Waffle station staff
-- **When:** Every waffle order
-- **Time needed:** 3 min in the iron, plus fan time and topping
-- **Equipment and supplies:** bubble waffle iron, cone mould, fan, ice cream scoop, waffle cone holders, paper bags, $0.50 containers, recycle bags
-- **Last reviewed:** 2026-11-06
+## Choose a waffle
+
+<div class="grid cards lsc-items" markdown>
+
+-   [![Original Waffle](../../assets/recipes/waffles/original-waffle.png)](original-waffle.md)
+
+    [**Original Waffle**](original-waffle.md)
+
+-   [![Chocolate Waffle](../../assets/recipes/waffles/chocolate-waffle.jpeg)](chocolate-waffle.md)
+
+    [**Chocolate Waffle**](chocolate-waffle.md)
+
+-   [![Banana Waffle](../../assets/recipes/waffles/banana-waffle.png)](banana-waffle.md)
+
+    [**Banana Waffle**](banana-waffle.md)
+
+-   [![Strawberry Waffle](../../assets/recipes/waffles/strawberry-waffle.png)](strawberry-waffle.md)
+
+    [**Strawberry Waffle**](strawberry-waffle.md)
+
+-   [![Oreo Waffle](../../assets/recipes/waffles/oreo-waffle.png)](oreo-waffle.md)
+
+    [**Oreo Waffle**](oreo-waffle.md)
+
+-   [![Super Oreo Waffle](../../assets/recipes/waffles/super-oreo-waffle.png)](super-oreo-waffle.md)
+
+    [**Super Oreo Waffle**](super-oreo-waffle.md)
+
+-   [![White Strawberry Waffle](../../assets/recipes/waffles/white-strawberry-waffle.png)](white-strawberry-waffle.md)
+
+    [**White Strawberry Waffle**](white-strawberry-waffle.md)
+
+-   [![Matcha Red Bean Waffle](../../assets/recipes/waffles/matcha-red-bean-waffle.png)](matcha-red-bean-waffle.md)
+
+    [**Matcha Red Bean Waffle**](matcha-red-bean-waffle.md)
+
+-   [![Caramel Banana Waffle](../../assets/recipes/waffles/caramel-banana-waffle.png)](caramel-banana-waffle.md)
+
+    [**Caramel Banana Waffle**](caramel-banana-waffle.md)
+
+-   [![Dark Strawberry Waffle](../../assets/recipes/waffles/dark-strawberry-waffle.png)](dark-strawberry-waffle.md)
+
+    [**Dark Strawberry Waffle**](dark-strawberry-waffle.md)
+
+-   [![Devil Waffle](../../assets/recipes/waffles/devil-waffle.png)](devil-waffle.md)
+
+    [**Devil Waffle**](devil-waffle.md)
+
+-   [![Rainbow Waffle](../../assets/recipes/waffles/rainbow-waffle.jpeg)](rainbow-waffle.md)
+
+    [**Rainbow Waffle**](rainbow-waffle.md)
+
+</div>
+
+<div class="lsc-meta" markdown>
+**Purpose:** Cook, shape and serve every bubble waffle the same way.<br>
+**Who does it:** Waffle station staff<br>
+**When:** Every waffle order<br>
+**Time needed:** 3 min in the iron, plus fan time and topping<br>
+**Equipment and supplies:** bubble waffle iron, cone mould, fan, ice cream scoop, waffle cone holders, paper bags, $0.50 containers, recycle bags<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Which batter?
 
@@ -75,17 +131,3 @@ TODO(owner): portions for brownie and Taro Smash (they are not on any normal waf
 
 Check Square for extra prices. Don't quote prices from this page.
 
-## Waffles
-
-- [Original Waffle](original-waffle.md)
-- [Chocolate Waffle](chocolate-waffle.md)
-- [Banana Waffle](banana-waffle.md)
-- [Strawberry Waffle](strawberry-waffle.md)
-- [Oreo Waffle](oreo-waffle.md)
-- [Super Oreo Waffle](super-oreo-waffle.md)
-- [White Strawberry Waffle](white-strawberry-waffle.md)
-- [Matcha Red Bean Waffle](matcha-red-bean-waffle.md)
-- [Caramel Banana Waffle](caramel-banana-waffle.md)
-- [Dark Strawberry Waffle](dark-strawberry-waffle.md)
-- [Devil Waffle](devil-waffle.md)
-- [Rainbow Waffle](rainbow-waffle.md)

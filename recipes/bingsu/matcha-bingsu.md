@@ -1,15 +1,16 @@
 # Matcha Bingsu
 
-![Matcha Bingsu: the finished item](../../assets/recipes/bingsu/matcha-bingsu.png){ width="320" }
+![Matcha Bingsu: the finished item](../../assets/recipes/bingsu/matcha-bingsu.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Matcha Bingsu the same way every time.
-- **Who does it:** Dessert station staff
-- **When:** Every Matcha Bingsu order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** bingsu machine, measuring jug, shot measure, cup or bowl, ice cream scoop, whipped cream dispenser
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Matcha Bingsu the same way every time.<br>
+**Who does it:** Dessert station staff<br>
+**When:** Every Matcha Bingsu order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** bingsu machine, measuring jug, shot measure, cup or bowl, ice cream scoop, whipped cream dispenser<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients
 
@@ -22,7 +23,7 @@ Make it look like this photo.
 - Matcha ice cream: **1 scoop**
 - Whipped cream: spray on top of the ice cream
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Milk, condensed milk, whipped cream and ice cream: **milk**. TODO(owner): ice cream brand, to check other allergens.
     - Matcha powder: check the label.
     - Red bean: check the label.

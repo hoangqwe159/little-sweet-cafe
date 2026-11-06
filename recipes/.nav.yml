@@ -1,0 +1,16 @@
+# Order and names of the Recipes menu (mkdocs-awesome-nav).
+# Pages inside each folder are listed automatically, by their H1 title.
+# New folders: add them below, or they won't appear in the menu.
+nav:
+  - index.md
+  - Desserts:
+      - Bubble Waffles: waffles
+      - Soufflé Pancakes: souffle-pancakes
+      - Bingsu: bingsu
+      - Cutie Puff and Egg Yaki: cutie-puff-egg-yaki
+      - Ice Cream: ice-cream
+  - Drinks:
+      - Milk Tea: milk-tea
+      - Iced Tea: iced-tea
+      - Frappe: frappe
+      - Milkshake: milkshake

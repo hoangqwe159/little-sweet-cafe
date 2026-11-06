@@ -2,12 +2,14 @@
 
 A scoop of ice cream on its own, or as an extra on a waffle, soufflé pancake or bingsu.
 
-- **Purpose:** Serve the same scoop of ice cream every time.
-- **Who does it:** Dessert station staff
-- **When:** Every Ice Cream order, and every "extra ice cream"
-- **Time needed:** 1 min
-- **Equipment and supplies:** ice cream scoop, cup
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Serve the same scoop of ice cream every time.<br>
+**Who does it:** Dessert station staff<br>
+**When:** Every Ice Cream order, and every "extra ice cream"<br>
+**Time needed:** 1 min<br>
+**Equipment and supplies:** ice cream scoop, cup<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Flavours
 
@@ -24,7 +26,7 @@ A scoop of ice cream on its own, or as an extra on a waffle, soufflé pancake or
 - **1 scoop** per order. One scoop is a flat **$3.50**, whatever the flavour. Check Square before quoting a price.
 - TODO(owner): scoop size.
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Ice cream: **milk**. TODO(owner): brand, to check other allergens on the label.
     - Cookies and Cream: may contain **wheat (gluten), soy**. Check the label.
     - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.

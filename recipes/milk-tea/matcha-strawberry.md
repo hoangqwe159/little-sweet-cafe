@@ -4,12 +4,14 @@ A layered drink: muddled strawberries and strawberry sauce at the bottom, with t
 
 TODO(owner): photo of the finished drink.
 
-- **Purpose:** Make the Matcha Strawberry the same way every time.
-- **Who does it:** Drinks station staff
-- **When:** Every Matcha Strawberry order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** 700 ml cup, muddler, shaker, shot measure, ice scoop
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Matcha Strawberry the same way every time.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every Matcha Strawberry order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** 700 ml cup, muddler, shaker, shot measure, ice scoop<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 cup, 700 ml)
 
@@ -18,7 +20,7 @@ TODO(owner): photo of the finished drink.
 - Ice: **1 scoop**
 - Matcha base, the same as the [Matcha Bubble Tea](matcha-bubble-tea.md): **6 g** matcha powder + **1 spoon** Coffee-mate + **1.5 shots** (45 ml) sugar syrup + fresh milk
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Fresh milk: **milk**.
     - Coffee-mate: check the label (usually contains a **milk** protein).
     - Matcha powder and strawberry sauce: check the labels.

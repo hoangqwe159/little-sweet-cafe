@@ -33,16 +33,6 @@
   --md-typeset-a-color: var(--lsc-pink-dark);
 }
 
-[data-md-color-scheme="slate"] {
-  --md-primary-fg-color: var(--lsc-pink);
-  --md-primary-fg-color--light: var(--lsc-pink-light);
-  --md-primary-fg-color--dark: var(--lsc-pink-dark);
-  --md-primary-bg-color: #ffffff;
-  --md-accent-fg-color: var(--lsc-pink-light);
-  --md-typeset-a-color: var(--lsc-pink-light);
-  --lsc-pink-soft: #3a2630;
-}
-
 /* ---------- Typography ---------- */
 .md-typeset h1,
 .md-typeset h2,
@@ -68,8 +58,7 @@
 
 /* Bigger logo in the header, like the Square site.
  * The unicorn in the logo PNGs is transparent, not white, so the logos sit on
- * a white circle. Without it the logo disappears on the pink header and the
- * unicorn turns dark in dark mode. */
+ * a white circle. Without it the logo disappears on the pink header. */
 .md-header__button.md-logo img {
   height: 2.2rem;
   width: auto;
@@ -116,6 +105,7 @@
 
 /* ---------- Doc header block (purpose, who, when...) ---------- */
 .md-typeset .lsc-meta {
+  display: flow-root; /* sit beside a floated photo, not under it */
   background: var(--lsc-pink-soft);
   border-left: 4px solid var(--lsc-pink);
   border-radius: var(--lsc-radius-card);
@@ -149,8 +139,168 @@
   font-size: 1.1em;
 }
 
+/* ---------- Readability: bigger text for reading at a busy station ---------- */
+.md-typeset {
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.md-typeset h2 {
+  margin-top: 1.6em;
+  clear: both; /* start below a floated photo */
+}
+
+/* Numbered steps: big pink step numbers that are easy to follow */
+.md-typeset ol:not([class]) {
+  counter-reset: lsc-step;
+  margin-left: 0;
+  padding-left: 2.4em;
+}
+
+.md-typeset ol:not([class]) > li {
+  counter-increment: lsc-step;
+  list-style: none;
+  position: relative;
+  margin-bottom: 0.7em;
+}
+
+.md-typeset ol:not([class]) > li::before {
+  content: counter(lsc-step);
+  position: absolute;
+  left: -2.3em;
+  top: 0.1em;
+  width: 1.7em;
+  height: 1.7em;
+  line-height: 1.7em;
+  border-radius: 50%;
+  background: var(--lsc-pink);
+  color: #ffffff;
+  font-family: var(--lsc-heading-font);
+  font-weight: 700;
+  font-size: 0.85em;
+  text-align: center;
+}
+
+/* Checklists: larger text and tick boxes */
+.md-typeset .task-list-item {
+  font-size: 1.02em;
+  margin-bottom: 0.35em;
+}
+
+/* Warning and tip boxes: same text size as the page, so they are not missed */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.8rem;
+}
+
+/* Allergen boxes stand out a little more */
+.md-typeset .admonition.danger {
+  border-width: 0 0 0 0.3rem;
+}
+
+/* ---------- Recipe photo: beside the header block on wide screens ---------- */
+.md-typeset img.lsc-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1em;
+}
+
+@media screen and (min-width: 60em) {
+  .md-typeset img.lsc-photo {
+    float: right;
+    max-width: 38%;
+    margin: 0 0 1em 1.5em;
+  }
+}
+
+/* ---------- Photo grids (recipe sections and items) ---------- */
+.md-typeset .grid.cards.lsc-items,
+.md-typeset .grid.cards.lsc-sections {
+  grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+}
+
+.md-typeset .grid.cards.lsc-sections {
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+}
+
+.md-typeset .grid.cards > ul > li {
+  border-radius: var(--lsc-radius-image);
+  padding: 0.6rem;
+  text-align: center;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--lsc-pink-light);
+  box-shadow: 0 0.2rem 0.8rem rgba(233, 99, 137, 0.18);
+}
+
+.md-typeset .grid.cards img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: calc(var(--lsc-radius-image) - 6px);
+  background: #ffffff;
+}
+
+.md-typeset .grid.cards p {
+  margin: 0.4em 0 0;
+  line-height: 1.35;
+}
+
+.md-typeset .grid.cards p + p {
+  color: var(--lsc-soft-red);
+  font-size: 0.85em;
+}
+
+.md-typeset .grid.cards a {
+  color: var(--md-typeset-color);
+}
+
+/* Square placeholder when an item has no photo yet */
+.md-typeset .lsc-noimg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1 / 1;
+  border-radius: calc(var(--lsc-radius-image) - 6px);
+  background: var(--lsc-pink-soft);
+  color: var(--lsc-soft-red);
+  font-size: 2.6rem;
+}
+
+.md-typeset .lsc-items .lsc-noimg {
+  font-size: 0.85rem;
+}
+
+/* ---------- Homepage tiles ---------- */
+.md-typeset .grid.cards.lsc-home {
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+}
+
+.md-typeset .lsc-tile-icon {
+  display: block;
+  font-size: 2.4rem;
+  line-height: 1.2;
+}
+
+.md-typeset .lsc-soon {
+  filter: grayscale(1);
+  opacity: 0.5;
+}
+
 /* ---------- Print: plain A4 pages for SOPs and checklists ---------- */
 @media print {
+  .md-typeset img.lsc-photo {
+    float: right;
+    max-width: 5cm;
+  }
+
+  .md-typeset ol:not([class]) > li::before {
+    background: #000000;
+  }
+
   .md-header,
   .md-tabs,
   .md-sidebar,

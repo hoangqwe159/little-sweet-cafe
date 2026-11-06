@@ -2,14 +2,16 @@
 
 All 6 iced teas are made the same way. Only the fruit sauce changes.
 
-![Iced tea: the finished drink](../../assets/recipes/iced-tea/peach-iced-tea.png){ width="240" }
+![Iced tea: the finished drink](../../assets/recipes/iced-tea/peach-iced-tea.png){ .lsc-photo width="240" }
 
-- **Purpose:** Make every iced tea the same way.
-- **Who does it:** Drinks station staff
-- **When:** Every iced tea order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** shaker, shot measure or fruit sauce pump, ice scoop, cup, sealer
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make every iced tea the same way.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every iced tea order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** shaker, shot measure or fruit sauce pump, ice scoop, cup, sealer<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Flavours
 
@@ -29,7 +31,7 @@ Use the fruit sauce that matches the order:
 - Ice: **1 scoop**
 - Tea (made in advance): fill to the top. The tea recipe is not in these docs.
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Fruit sauces: check each bottle label.
     - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.
 

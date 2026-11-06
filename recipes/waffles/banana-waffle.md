@@ -1,15 +1,16 @@
 # Banana Waffle
 
-![Banana Waffle: the finished item](../../assets/recipes/waffles/banana-waffle.png){ width="320" }
+![Banana Waffle: the finished item](../../assets/recipes/waffles/banana-waffle.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Banana Waffle the same way every time.
-- **Who does it:** Waffle station staff
-- **When:** Every Banana Waffle order
-- **Time needed:** 3 min in the iron, plus fan time and topping
-- **Equipment and supplies:** bubble waffle iron, cone mould, fan, ice cream scoop, waffle cone holder (dine-in), $0.50 container (takeaway), paper bag (takeaway)
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Banana Waffle the same way every time.<br>
+**Who does it:** Waffle station staff<br>
+**When:** Every Banana Waffle order<br>
+**Time needed:** 3 min in the iron, plus fan time and topping<br>
+**Equipment and supplies:** bubble waffle iron, cone mould, fan, ice cream scoop, waffle cone holder (dine-in), $0.50 container (takeaway), paper bag (takeaway)<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 waffle)
 
@@ -18,7 +19,7 @@ Make it look like this photo.
 - Banana: **2/3 of a banana**
 - Chocolate sauce: **zig-zag drizzle** over the top
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Batter: TODO(owner): confirm. Treat it as containing **egg, milk and wheat (gluten)** until confirmed.
     - Ice cream: **milk**. TODO(owner): brand, to check other allergens on the label.
     - Chocolate sauce: may contain **milk, soy**. Check the bottle label.

@@ -19,28 +19,40 @@ theme:
   font:
     text: DM Sans
     code: JetBrains Mono
+  # Light mode only, like the Square site
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    scheme: default
+    primary: custom
+    accent: custom
   features:
+    # Navigation: tabs on top, breadcrumbs above each title, previous/next
+    # links in the footer, fast page loads, back-to-top button.
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-    - navigation.top
     - navigation.indexes
+    - navigation.path
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.top
+    # "On this page" panel follows the reader's scroll
+    - toc.follow
+    # Search: suggestions while typing, highlight matches, shareable links
+    - search.suggest
     - search.highlight
+    - search.share
     - content.action.view
+
+plugins:
+  # Menu order and section names come from .nav.yml files (site/.nav.yml for
+  # the top tabs, recipes/.nav.yml for the Recipes menu).
+  - awesome-nav
+  - search:
+      lang: en
+      # Also split words on hyphens, so "bubble-tea" finds "bubble tea"
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])'
 
 extra_css:
   - stylesheets/extra.css

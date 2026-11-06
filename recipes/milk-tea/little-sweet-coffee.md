@@ -2,19 +2,21 @@
 
 TODO(owner): photo of the finished drink.
 
-- **Purpose:** Make the Little Sweet Coffee the same way every time.
-- **Who does it:** Drinks station staff
-- **When:** Every Little Sweet Coffee order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Little Sweet Coffee the same way every time.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every Little Sweet Coffee order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 cup)
 
 - Coffee (made in advance)
 - Soufflé cream: **3 spoons**, on top
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Coffee (made in advance): TODO(owner): confirm what is in it (condensed milk = **milk**).
     - Soufflé cream: TODO(owner): confirm. Treat it as containing **milk and egg** until confirmed.
     - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.

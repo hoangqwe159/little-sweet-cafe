@@ -1,15 +1,16 @@
 # Oreo Soufflé Pancake
 
-![Oreo Soufflé Pancake: the finished item](../../assets/recipes/souffle/oreo-souffle-pancake.jpeg){ width="320" }
+![Oreo Soufflé Pancake: the finished item](../../assets/recipes/souffle/oreo-souffle-pancake.jpeg){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Oreo Soufflé Pancake the same way every time.
-- **Who does it:** Soufflé station staff
-- **When:** Every Oreo Soufflé Pancake order
-- **Time needed:** about 3 min whipping, 9 min cooking, plus plating
-- **Equipment and supplies:** egg mixer, soufflé machine, piping bag, water spray bottle, plate (dine-in), large box or round box (takeaway, Uber Eats)
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Oreo Soufflé Pancake the same way every time.<br>
+**Who does it:** Soufflé station staff<br>
+**When:** Every Oreo Soufflé Pancake order<br>
+**Time needed:** about 3 min whipping, 9 min cooking, plus plating<br>
+**Equipment and supplies:** egg mixer, soufflé machine, piping bag, water spray bottle, plate (dine-in), large box or round box (takeaway, Uber Eats)<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 serve)
 
@@ -20,7 +21,7 @@ Make it look like this photo.
 - Whole Oreo: **1**, on the ice cream
 - Icing sugar: dust over the top
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Pancakes: **egg, wheat (gluten)**. Corn flour: check the pack, because some Australian "cornflour" is made from wheat.
     - Soufflé cream: TODO(owner): confirm. Treat it as containing **milk and egg** until confirmed.
     - Ice cream: **milk**. TODO(owner): brand, to check other allergens on the label.

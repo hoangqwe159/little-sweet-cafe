@@ -2,12 +2,40 @@
 
 This page has the method shared by every bingsu: the milk mix, the bingsu machine, sizes and packing. Each bingsu has its own card with its toppings.
 
-- **Purpose:** Make every bingsu the same way.
-- **Who does it:** Dessert station staff
-- **When:** Every bingsu order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** bingsu machine, measuring jug, shot measure, small whisk, cup or bowl, ice cream scoop, whipped cream dispenser, round container (Uber Eats)
-- **Last reviewed:** 2026-11-06
+## Choose a bingsu
+
+<div class="grid cards lsc-items" markdown>
+
+-   [<span class="lsc-noimg">No photo yet</span>](original-bingsu.md)
+
+    [**Original Bingsu**](original-bingsu.md)
+
+-   [![Strawberry Bingsu](../../assets/recipes/bingsu/strawberry-bingsu.png)](strawberry-bingsu.md)
+
+    [**Strawberry Bingsu**](strawberry-bingsu.md)
+
+-   [![Brownie Bingsu](../../assets/recipes/bingsu/brownie-bingsu.png)](brownie-bingsu.md)
+
+    [**Brownie Bingsu**](brownie-bingsu.md)
+
+-   [![Oreo Bingsu](../../assets/recipes/bingsu/oreo-bingsu.png)](oreo-bingsu.md)
+
+    [**Oreo Bingsu**](oreo-bingsu.md)
+
+-   [![Matcha Bingsu](../../assets/recipes/bingsu/matcha-bingsu.png)](matcha-bingsu.md)
+
+    [**Matcha Bingsu**](matcha-bingsu.md)
+
+</div>
+
+<div class="lsc-meta" markdown>
+**Purpose:** Make every bingsu the same way.<br>
+**Who does it:** Dessert station staff<br>
+**When:** Every bingsu order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** bingsu machine, measuring jug, shot measure, small whisk, cup or bowl, ice cream scoop, whipped cream dispenser, round container (Uber Eats)<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Sizes
 
@@ -65,10 +93,3 @@ Takeaway at the shop and Uber Eats are packed the same way:
 
 Customers can add extra ice cream, toppings or sauce. These are the same extras as the waffles. An extra is the **same amount** as on a normal item. See [Bubble Waffles: Extras](../waffles/index.md#extras).
 
-## Bingsu
-
-- [Original Bingsu](original-bingsu.md)
-- [Strawberry Bingsu](strawberry-bingsu.md)
-- [Brownie Bingsu](brownie-bingsu.md)
-- [Oreo Bingsu](oreo-bingsu.md)
-- [Matcha Bingsu](matcha-bingsu.md)

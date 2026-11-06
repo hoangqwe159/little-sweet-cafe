@@ -2,14 +2,16 @@
 
 All frappes are made the same way. Only the flavour changes.
 
-![Matcha Frappe: the finished drink](../../assets/recipes/frappe/matcha-frappe.jpeg){ width="240" }
+![Matcha Frappe: the finished drink](../../assets/recipes/frappe/matcha-frappe.jpeg){ .lsc-photo width="240" }
 
-- **Purpose:** Make every frappe the same way.
-- **Who does it:** Drinks station staff
-- **When:** Every frappe order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** blender, shot measure, ice scoop, measuring jug, cup, whipped cream dispenser
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make every frappe the same way.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every frappe order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** blender, shot measure, ice scoop, measuring jug, cup, whipped cream dispenser<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Flavours
 
@@ -32,7 +34,7 @@ The Berrynana frappe is no longer sold.
 - Sprinkles: on top. The Matcha Frappe photo shows matcha powder on the cream instead. TODO(owner): confirm.
 - Oreo Frappe only: crushed Oreo on top. TODO(owner): how much.
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Milk, Coffee-mate and whipped cream: **milk**. Check the Coffee-mate label.
     - Fruit sauces, matcha, cocoa and sprinkles: check each label.
     - Oreo: **wheat (gluten), soy**. Check the pack for milk.

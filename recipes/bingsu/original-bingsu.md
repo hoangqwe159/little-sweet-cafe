@@ -2,12 +2,14 @@
 
 TODO(owner): photo of the finished item.
 
-- **Purpose:** Make the Original Bingsu the same way every time.
-- **Who does it:** Dessert station staff
-- **When:** Every Original Bingsu order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** bingsu machine, measuring jug, shot measure, cup or bowl, ice cream scoop, whipped cream dispenser
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Original Bingsu the same way every time.<br>
+**Who does it:** Dessert station staff<br>
+**When:** Every Original Bingsu order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** bingsu machine, measuring jug, shot measure, cup or bowl, ice cream scoop, whipped cream dispenser<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients
 
@@ -20,7 +22,7 @@ TODO(owner): photo of the finished item.
 - Vanilla ice cream: **1 scoop**
 - Whipped cream: spray on top of the ice cream
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Milk, condensed milk, whipped cream and ice cream: **milk**. TODO(owner): ice cream brand, to check other allergens.
     - Soybean powder: **soy**.
     - Mochi: check the label (some contain wheat).

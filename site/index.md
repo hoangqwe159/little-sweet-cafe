@@ -14,20 +14,68 @@ Your daily dose of happiness starts with doing it right.
 
 </div>
 
-Staff guides for **Little Sweet Cafe**, Shop 10/2 Elkhorn Ave, Surfers Paradise. Use the tabs at the top or the search box to find what you need.
+Staff guides for **Little Sweet Cafe**, Shop 10/2 Elkhorn Ave, Surfers Paradise.
 
-| Section | What's in it |
-|---|---|
-| Training | Onboarding and station training (drinks, waffles, soufflé pancakes, front counter) |
-| Procedures | Opening, closing, cleaning, food safety, allergens, incidents |
-| Maintenance | Cleaning and care for each piece of equipment |
-| Recipes | Build cards for every menu item |
-| Guide | How these docs look and how to write a new one |
+!!! tip "Find anything fast"
+    Press the **search** box at the top (or press **/** on a keyboard) and type what you're making, for example **devil waffle**, **pearls** or **bingsu machine**.
 
-Sections appear here as their docs are added.
+<div class="grid cards lsc-home" markdown>
 
-!!! warning "Allergens"
-    If a customer asks about allergens and you are not sure, **do not guess**. Check the allergen procedure or ask the shift lead.
+-   [<span class="lsc-tile-icon">🧇</span>](recipes/index.md)
 
-[Writing a new doc? Read the style guide](guide/style-guide.md){ .md-button .md-button--primary }
+    [**Recipes**](recipes/index.md)
+
+    Build cards for every dessert and drink, with photos.
+
+-   [<span class="lsc-tile-icon">📖</span>](guide/style-guide.md)
+
+    [**Guide**](guide/style-guide.md)
+
+    How these docs look and how to write a new one.
+
+-   <span class="lsc-tile-icon lsc-soon">🎓</span>
+
+    **Training** · coming soon
+
+    Onboarding and station training.
+
+-   <span class="lsc-tile-icon lsc-soon">✅</span>
+
+    **Procedures** · coming soon
+
+    Opening, closing, cleaning, food safety, allergens.
+
+-   <span class="lsc-tile-icon lsc-soon">🔧</span>
+
+    **Maintenance** · coming soon
+
+    Cleaning and care for each machine.
+
+</div>
+
+## Quick links
+
+<div class="grid cards lsc-items" markdown>
+
+-   [![Devil Waffle](assets/recipes/waffles/devil-waffle.png)](recipes/waffles/devil-waffle.md)
+
+    [**Devil Waffle**](recipes/waffles/devil-waffle.md)
+
+-   [![Strawberry Soufflé Pancake](assets/recipes/souffle/strawberry-souffle-pancake.png)](recipes/souffle-pancakes/strawberry-souffle-pancake.md)
+
+    [**Strawberry Soufflé Pancake**](recipes/souffle-pancakes/strawberry-souffle-pancake.md)
+
+-   [![Strawberry Bingsu](assets/recipes/bingsu/strawberry-bingsu.png)](recipes/bingsu/strawberry-bingsu.md)
+
+    [**Strawberry Bingsu**](recipes/bingsu/strawberry-bingsu.md)
+
+-   [![Brown Sugar Bubble Tea](assets/recipes/milk-tea/brown-sugar-bubble-tea.png)](recipes/milk-tea/brown-sugar-bubble-tea.md)
+
+    [**Brown Sugar Bubble Tea**](recipes/milk-tea/brown-sugar-bubble-tea.md)
+
+</div>
+
+!!! danger "⚠️ Allergens"
+    If a customer asks about allergens and you are not sure, **do not guess**. Check the recipe card or ask the shift lead.
+
 [Customer website](https://littlesweetcafe.com.au/){ .md-button }

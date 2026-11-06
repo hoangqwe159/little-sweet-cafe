@@ -1,15 +1,16 @@
 # Super Oreo Bubble Milk Tea
 
-![Super Oreo Bubble Milk Tea: the finished drink](../../assets/recipes/milk-tea/super-oreo-bubble-milk-tea.png){ width="320" }
+![Super Oreo Bubble Milk Tea: the finished drink](../../assets/recipes/milk-tea/super-oreo-bubble-milk-tea.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Super Oreo Bubble Milk Tea the same way every time.
-- **Who does it:** Drinks station staff
-- **When:** Every Super Oreo Bubble Milk Tea order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Super Oreo Bubble Milk Tea the same way every time.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every Super Oreo Bubble Milk Tea order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 cup)
 
@@ -24,7 +25,7 @@ Make it look like this photo.
 - Wafer sticks: **2**
 - Whole Oreo: **1**
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Fresh milk: **milk**.
     - Cocoa powder: check the label.
     - Coffee-mate: check the label (usually contains a **milk** protein).

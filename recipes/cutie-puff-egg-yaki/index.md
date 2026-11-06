@@ -2,15 +2,17 @@
 
 Cutie Puffs and Egg Yaki are made the same way: batter, then filling, then batter.
 
-![Cutie Puff: the finished item](../../assets/recipes/cutie-puff-egg-yaki/cutie-puff.jpeg){ width="240" }
-![Egg Yaki: the finished item](../../assets/recipes/cutie-puff-egg-yaki/egg-yaki.jpeg){ width="200" }
+![Cutie Puff: the finished item](../../assets/recipes/cutie-puff-egg-yaki/cutie-puff.jpeg){ .lsc-photo width="240" }
+![Egg Yaki: the finished item](../../assets/recipes/cutie-puff-egg-yaki/egg-yaki.jpeg){ .lsc-photo width="200" }
 
-- **Purpose:** Make Cutie Puffs and Egg Yaki the same way every time.
-- **Who does it:** Dessert station staff
-- **When:** Every Cutie Puff or Egg Yaki order
-- **Time needed:** 4 min in the machine, plus serving
-- **Equipment and supplies:** Cutie Puff / Egg Yaki machine, batter, fillings, paper bowl (Cutie Puff), egg carton (Egg Yaki)
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make Cutie Puffs and Egg Yaki the same way every time.<br>
+**Who does it:** Dessert station staff<br>
+**When:** Every Cutie Puff or Egg Yaki order<br>
+**Time needed:** 4 min in the machine, plus serving<br>
+**Equipment and supplies:** Cutie Puff / Egg Yaki machine, batter, fillings, paper bowl (Cutie Puff), egg carton (Egg Yaki)<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 The batter is made in advance. Its recipe is not in these docs.
 
@@ -21,7 +23,7 @@ TODO(owner): machine brand and model, temperature, and how the faces are made.
 - **Cutie Puff:** **6** or **10** pieces, as ordered. Serve in a paper bowl. TODO(owner): which filling?
 - **Egg Yaki:** **4** pieces in an egg carton. The customer chooses **2 fillings** from: Taro, Chocolate, Custard, Red Bean, Oreo. TODO(owner): is it 2 pieces of each filling?
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Batter: TODO(owner): confirm. Treat it as containing **egg, milk and wheat (gluten)** until confirmed.
     - Fillings: check each label. Oreo: **wheat (gluten), soy**. Custard and chocolate: usually **milk** (custard often has **egg**).
     - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.

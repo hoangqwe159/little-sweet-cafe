@@ -1,15 +1,16 @@
 # Brownie Bingsu
 
-![Brownie Bingsu: the finished item](../../assets/recipes/bingsu/brownie-bingsu.png){ width="320" }
+![Brownie Bingsu: the finished item](../../assets/recipes/bingsu/brownie-bingsu.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Brownie Bingsu the same way every time.
-- **Who does it:** Dessert station staff
-- **When:** Every Brownie Bingsu order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** bingsu machine, measuring jug, shot measure, cup or bowl, ice cream scoop, whipped cream dispenser
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Brownie Bingsu the same way every time.<br>
+**Who does it:** Dessert station staff<br>
+**When:** Every Brownie Bingsu order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** bingsu machine, measuring jug, shot measure, cup or bowl, ice cream scoop, whipped cream dispenser<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients
 
@@ -20,7 +21,7 @@ Make it look like this photo.
 - Chocolate ice cream: **1 scoop**
 - Whipped cream: spray on top of the ice cream
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Milk, condensed milk, whipped cream and ice cream: **milk**. TODO(owner): ice cream brand, to check other allergens.
     - Chocolate powder: check the label (may contain milk, soy).
     - Brownie: usually **wheat (gluten), egg, milk**. Check the label. TODO(owner): brownie brand or recipe.

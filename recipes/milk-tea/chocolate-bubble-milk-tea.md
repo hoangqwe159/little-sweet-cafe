@@ -1,15 +1,16 @@
 # Chocolate Bubble Milk Tea
 
-![Chocolate Bubble Milk Tea: the finished drink](../../assets/recipes/milk-tea/chocolate-bubble-milk-tea.png){ width="320" }
+![Chocolate Bubble Milk Tea: the finished drink](../../assets/recipes/milk-tea/chocolate-bubble-milk-tea.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Chocolate Bubble Milk Tea the same way every time.
-- **Who does it:** Drinks station staff
-- **When:** Every Chocolate Bubble Milk Tea order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Chocolate Bubble Milk Tea the same way every time.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every Chocolate Bubble Milk Tea order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 cup)
 
@@ -20,7 +21,7 @@ Make it look like this photo.
 - Pearls: **1.5 scoops**
 - Ice: **1 scoop**
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Fresh milk: **milk**.
     - Cocoa powder: check the label.
     - Coffee-mate: check the label (usually contains a **milk** protein).

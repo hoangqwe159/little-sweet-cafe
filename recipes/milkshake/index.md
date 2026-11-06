@@ -4,12 +4,14 @@ All milkshakes are made the same way. Only the flavour changes.
 
 TODO(owner): photo of a finished milkshake.
 
-- **Purpose:** Make every milkshake the same way.
-- **Who does it:** Drinks station staff
-- **When:** Every milkshake order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** milkshake machine and its cup, ice cream scoop, shot measure, serving cup, long spoon
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make every milkshake the same way.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every milkshake order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** milkshake machine and its cup, ice cream scoop, shot measure, serving cup, long spoon<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Flavours
 
@@ -22,7 +24,7 @@ TODO(owner): photo of a finished milkshake.
 - Sugar syrup: **half a shot** (15 ml)
 - Milk: half a cup to mix, then top up to full
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Ice cream and milk: **milk**. TODO(owner): ice cream brand, to check other allergens.
     - Mango sauce: check the label.
     - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.

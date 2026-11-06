@@ -1,15 +1,16 @@
 # Matcha Bubble Tea
 
-![Matcha Bubble Tea: the finished drink](../../assets/recipes/milk-tea/matcha-bubble-tea.png){ width="320" }
+![Matcha Bubble Tea: the finished drink](../../assets/recipes/milk-tea/matcha-bubble-tea.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Matcha Bubble Tea the same way every time.
-- **Who does it:** Drinks station staff
-- **When:** Every Matcha Bubble Tea order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Matcha Bubble Tea the same way every time.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every Matcha Bubble Tea order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 cup)
 
@@ -20,7 +21,7 @@ Make it look like this photo.
 - Pearls: **1.5 scoops**
 - Ice: **1 scoop**
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Fresh milk: **milk**.
     - Matcha powder: check the label.
     - Coffee-mate: check the label (usually contains a **milk** protein).

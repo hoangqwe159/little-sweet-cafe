@@ -1,15 +1,16 @@
 # Devil Waffle
 
-![Devil Waffle: the finished item](../../assets/recipes/waffles/devil-waffle.png){ width="320" }
+![Devil Waffle: the finished item](../../assets/recipes/waffles/devil-waffle.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Devil Waffle the same way every time.
-- **Who does it:** Waffle station staff
-- **When:** Every Devil Waffle order
-- **Time needed:** 3 min in the iron, plus fan time and topping
-- **Equipment and supplies:** bubble waffle iron, cone mould, fan, ice cream scoop, waffle cone holder (dine-in), $0.50 container (takeaway), paper bag (takeaway)
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Devil Waffle the same way every time.<br>
+**Who does it:** Waffle station staff<br>
+**When:** Every Devil Waffle order<br>
+**Time needed:** 3 min in the iron, plus fan time and topping<br>
+**Equipment and supplies:** bubble waffle iron, cone mould, fan, ice cream scoop, waffle cone holder (dine-in), $0.50 container (takeaway), paper bag (takeaway)<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 waffle)
 
@@ -21,7 +22,7 @@ Make it look like this photo.
 - Icing sugar: **dust over the top**
 - Nutella: **zig-zag drizzle** over the top
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Batter: TODO(owner): confirm. Treat it as containing **egg, milk and wheat (gluten)** until confirmed.
     - Ice cream: **milk**. TODO(owner): brand, to check other allergens on the label.
     - Tim Tam: **wheat (gluten), milk, soy**.

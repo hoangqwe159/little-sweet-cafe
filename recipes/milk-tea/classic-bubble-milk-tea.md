@@ -1,15 +1,16 @@
 # Classic Bubble Milk Tea
 
-![Classic Bubble Milk Tea: the finished drink](../../assets/recipes/milk-tea/classic-bubble-milk-tea.png){ width="320" }
+![Classic Bubble Milk Tea: the finished drink](../../assets/recipes/milk-tea/classic-bubble-milk-tea.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Classic Bubble Milk Tea the same way every time.
-- **Who does it:** Drinks station staff
-- **When:** Every Classic Bubble Milk Tea order
-- **Time needed:** TODO(owner)
-- **Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Classic Bubble Milk Tea the same way every time.<br>
+**Who does it:** Drinks station staff<br>
+**When:** Every Classic Bubble Milk Tea order<br>
+**Time needed:** TODO(owner)<br>
+**Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 cup)
 
@@ -17,7 +18,7 @@ Make it look like this photo.
 - Ice: **1 scoop**
 - Milk tea (made in advance): to almost full
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Milk tea (made in advance): TODO(owner): confirm. Treat it as containing **milk** until confirmed.
     - Pearls: check the label.
     - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.

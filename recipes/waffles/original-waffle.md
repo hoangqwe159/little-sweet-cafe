@@ -1,21 +1,22 @@
 # Original Waffle
 
-![Original Waffle: the finished item](../../assets/recipes/waffles/original-waffle.png){ width="320" }
+![Original Waffle: the finished item](../../assets/recipes/waffles/original-waffle.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Original Waffle the same way every time.
-- **Who does it:** Waffle station staff
-- **When:** Every Original Waffle order
-- **Time needed:** 3 min in the iron, plus fan time
-- **Equipment and supplies:** bubble waffle iron, cone mould, fan, paper bag (takeaway)
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Original Waffle the same way every time.<br>
+**Who does it:** Waffle station staff<br>
+**When:** Every Original Waffle order<br>
+**Time needed:** 3 min in the iron, plus fan time<br>
+**Equipment and supplies:** bubble waffle iron, cone mould, fan, paper bag (takeaway)<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 waffle)
 
 - Original batter (made in advance): fill **half the iron**
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Batter: TODO(owner): confirm. Treat it as containing **egg, milk and wheat (gluten)** until confirmed.
     - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.
 

@@ -1,15 +1,16 @@
 # Strawberry Soufflé Pancake
 
-![Strawberry Soufflé Pancake: the finished item](../../assets/recipes/souffle/strawberry-souffle-pancake.png){ width="320" }
+![Strawberry Soufflé Pancake: the finished item](../../assets/recipes/souffle/strawberry-souffle-pancake.png){ .lsc-photo width="320" }
 
-Make it look like this photo.
 
-- **Purpose:** Make the Strawberry Soufflé Pancake the same way every time.
-- **Who does it:** Soufflé station staff
-- **When:** Every Strawberry Soufflé Pancake order
-- **Time needed:** about 3 min whipping, 9 min cooking, plus plating
-- **Equipment and supplies:** egg mixer, soufflé machine, piping bag, water spray bottle, plate (dine-in), large box or round box (takeaway, Uber Eats)
-- **Last reviewed:** 2026-11-06
+<div class="lsc-meta" markdown>
+**Purpose:** Make the Strawberry Soufflé Pancake the same way every time.<br>
+**Who does it:** Soufflé station staff<br>
+**When:** Every Strawberry Soufflé Pancake order<br>
+**Time needed:** about 3 min whipping, 9 min cooking, plus plating<br>
+**Equipment and supplies:** egg mixer, soufflé machine, piping bag, water spray bottle, plate (dine-in), large box or round box (takeaway, Uber Eats)<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 serve)
 
@@ -20,7 +21,7 @@ Make it look like this photo.
 - Strawberry powder: sprinkle on the soufflé cream
 - Icing sugar: dust over the top
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     - Pancakes: **egg, wheat (gluten)**. Corn flour: check the pack, because some Australian "cornflour" is made from wheat.
     - Soufflé cream: TODO(owner): confirm. Treat it as containing **milk and egg** until confirmed.
     - Ice cream: **milk**. TODO(owner): brand, to check other allergens on the label.

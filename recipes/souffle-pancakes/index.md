@@ -2,12 +2,42 @@
 
 This page has the method shared by every soufflé pancake: making the batter, cooking, and packing for takeaway and Uber Eats. Each item has its own card with its toppings.
 
-- **Purpose:** Make, cook and serve every soufflé pancake the same way.
-- **Who does it:** Soufflé station staff
-- **When:** Every soufflé pancake order
-- **Time needed:** about 3 min whipping, 9 min cooking, plus plating
-- **Equipment and supplies:** egg mixer, soufflé machine (griddle with lid), mixing bowl, hand whisk, piping bag, water spray bottle, tablespoon and teaspoon
-- **Last reviewed:** 2026-11-06
+## Choose a soufflé pancake
+
+<div class="grid cards lsc-items" markdown>
+
+-   [![Strawberry Soufflé Pancake](../../assets/recipes/souffle/strawberry-souffle-pancake.png)](strawberry-souffle-pancake.md)
+
+    [**Strawberry Soufflé Pancake**](strawberry-souffle-pancake.md)
+
+-   [![Oreo Soufflé Pancake](../../assets/recipes/souffle/oreo-souffle-pancake.jpeg)](oreo-souffle-pancake.md)
+
+    [**Oreo Soufflé Pancake**](oreo-souffle-pancake.md)
+
+-   [![Matcha Soufflé Pancake](../../assets/recipes/souffle/matcha-souffle-pancake.jpeg)](matcha-souffle-pancake.md)
+
+    [**Matcha Soufflé Pancake**](matcha-souffle-pancake.md)
+
+-   [![Brown Sugar with Pearls Soufflé Pancake](../../assets/recipes/souffle/brown-sugar-with-pearls-souffle-pancake.png)](brown-sugar-with-pearls-souffle-pancake.md)
+
+    [**Brown Sugar with Pearls Soufflé Pancake**](brown-sugar-with-pearls-souffle-pancake.md)
+
+-   [![Biscoff Soufflé Pancake](../../assets/recipes/souffle/biscoff-souffle-pancake.jpeg)](biscoff-souffle-pancake.md)
+
+    [**Biscoff Soufflé Pancake**](biscoff-souffle-pancake.md)
+
+</div>
+
+The Pork Floss Soufflé Pancake is no longer sold.
+
+<div class="lsc-meta" markdown>
+**Purpose:** Make, cook and serve every soufflé pancake the same way.<br>
+**Who does it:** Soufflé station staff<br>
+**When:** Every soufflé pancake order<br>
+**Time needed:** about 3 min whipping, 9 min cooking, plus plating<br>
+**Equipment and supplies:** egg mixer, soufflé machine (griddle with lid), mixing bowl, hand whisk, piping bag, water spray bottle, tablespoon and teaspoon<br>
+**Last reviewed:** 2026-11-06
+</div>
 
 ## Ingredients (1 serve = 3 pancakes)
 
@@ -27,7 +57,7 @@ This page has the method shared by every soufflé pancake: making the batter, co
 
 The soufflé cream is made in advance. Its recipe is not in these docs.
 
-!!! warning "⚠️ Warning: allergens"
+!!! danger "⚠️ Warning: allergens"
     The pancakes contain **egg** and **wheat (gluten)**. Check the corn flour pack, because some Australian "cornflour" is made from wheat.
 
 ## Make and cook
@@ -81,12 +111,3 @@ Put **3 pancakes** on a plate, then follow the item's card.
 
 Customers can add extra ice cream (1 scoop, any flavour) or extra toppings to a soufflé pancake. These are the same extras as the waffles. An extra is the **same amount** as on a normal item. See [Bubble Waffles: Extras](../waffles/index.md#extras).
 
-## Soufflé pancakes
-
-- [Strawberry Soufflé Pancake](strawberry-souffle-pancake.md)
-- [Oreo Soufflé Pancake](oreo-souffle-pancake.md)
-- [Matcha Soufflé Pancake](matcha-souffle-pancake.md)
-- [Brown Sugar with Pearls Soufflé Pancake](brown-sugar-with-pearls-souffle-pancake.md)
-- [Biscoff Soufflé Pancake](biscoff-souffle-pancake.md)
-
-The Pork Floss Soufflé Pancake is no longer sold.
