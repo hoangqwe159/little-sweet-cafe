@@ -10,5 +10,6 @@ Square is the source of truth for prices. These cards don't list prices.
 ## Sections
 
 - [Bubble Waffles](waffles/index.md)
+- [Soufflé Pancakes](souffle-pancakes/index.md)
 
-More sections are added as they are written: soufflé pancakes, bingsu, Cutie Puff and Egg Yaki, milk tea, iced tea, frappes, milkshakes and yoghurt drinks.
+More sections are added as they are written: bingsu, Cutie Puff and Egg Yaki, milk tea, iced tea, frappes, milkshakes and yoghurt drinks.
