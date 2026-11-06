@@ -1,0 +1,42 @@
+# Taro Bubble Tea
+
+![Taro Bubble Tea: the finished drink](../../assets/recipes/milk-tea/taro-bubble-tea.png){ width="320" }
+
+Make it look like this photo.
+
+- **Purpose:** Make the Taro Bubble Tea the same way every time.
+- **Who does it:** Drinks station staff
+- **When:** Every Taro Bubble Tea order
+- **Time needed:** TODO(owner)
+- **Equipment and supplies:** cup, pearl scoop, ice scoop, shaker (powder drinks), sealer
+- **Last reviewed:** 2026-11-06
+
+## Ingredients (1 cup)
+
+- Taro powder: **2 full spoons**
+- Coffee-mate: **1 spoon**
+- Fresh milk: TODO(owner) ml
+- Pearls: **1.5 scoops**
+- Ice: **1 scoop**
+
+!!! warning "⚠️ Warning: allergens"
+    - Fresh milk: **milk**.
+    - Taro powder: check the label.
+    - Coffee-mate: check the label (usually contains a **milk** protein).
+    - Pearls: check the label.
+    - If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.
+
+## Steps
+
+1. Make the base: follow [Powder base](index.md#powder-base) with **2 full spoons** of taro powder.
+2. Add **1.5 scoops** of pearls to the cup.
+3. Add **1 scoop** of ice.
+4. Pour the taro base into the cup.
+5. Add any **drink toppings** the customer ordered. See [Drink toppings](index.md#drink-toppings).
+6. Close the cup (seal or lid). See [Finish and seal](index.md#finish-and-seal).
+
+## Before serving
+
+- [ ] Right drink and right toppings for the order
+- [ ] Cup is filled to the right level
+- [ ] Cup is closed (seal or lid)
