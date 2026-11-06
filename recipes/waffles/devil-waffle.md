@@ -18,7 +18,7 @@ Make it look like this photo.
 - Tim Tams: **2**
 - Pretzels: **as in the photo**
 - Almond flakes: **as in the photo**
-- Icing sugar dusting (seen in the photo). TODO(owner): confirm
+- Icing sugar: **dust over the top**
 - Nutella: **zig-zag drizzle** over the top
 
 !!! warning "⚠️ Warning: allergens"
@@ -40,7 +40,7 @@ Make it look like this photo.
 6. Add pretzels, **as in the photo**.
 7. Sprinkle almond flakes, **as in the photo**.
 8. Drizzle Nutella over the top in a zig-zag.
-9. Dust with icing sugar. TODO(owner): confirm this step.
+9. Dust icing sugar over the top.
 10. Check that it looks like the photo, then serve.
 
 ## Before serving
