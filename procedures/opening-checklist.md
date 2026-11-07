@@ -5,8 +5,8 @@ How to open the shop, in order. Start the pearls early: they cook and rest for a
 <div class="lsc-meta" markdown>
 **Purpose:** Open the shop the same way every day, so everything is ready when the first customer walks in.<br>
 **Who:** Opening staff<br>
-**When:** Every day, before opening at 11:30 am. TODO(owner): what time does the opening shift start?<br>
-**Time needed:** TODO(owner)<br>
+**When:** Every day, as soon as you arrive at the shop (the shop opens at 11:30 am)<br>
+**Time needed:** about 10 min (the pearls keep cooking and resting after that)<br>
 **Equipment/supplies:** pearl cooker, kettle, bowl, strainer, red and green chopping boards, iPad, ice maker, air-con control<br>
 **Last reviewed:** 2026-11-07
 </div>
@@ -24,7 +24,7 @@ How to open the shop, in order. Start the pearls early: they cook and rest for a
     The pearl cooker and the kettle get very hot. Keep your hands away from the steam when you open the lid.
 
 1. Turn on the **power at the wall** for the pearl cooker.
-2. Fill the pot with water up to **line 1**. TODO(owner): the recording says "line 1, not 0.5". Please confirm the exact line.
+2. Fill the pot with water up to **line 0.5**.
 3. Press the **hand button**.
 4. Press the **red button** (start).
 5. Check that the **2 boxes at the top left** of the panel light up red.
@@ -97,14 +97,14 @@ Nutella must be warmed up before it can be used.
 1. When the water boils, add the measured pearls to the pot.
 2. Stir gently with a spoon.
 3. Close the lid. The cooker cooks the pearls by itself.
-4. Wait until the cooker shows it has finished. TODO(owner): the recording says it shows "N". What does the screen show exactly?
+4. Wait until the screen shows **End**.
 5. Turn off the power at the back of the cooker.
 6. Leave the pearls to rest in the closed pot for **20 min**.
 7. After 20 min, pour the pearls into the **strainer**.
 8. Rinse them with **cold water** for about **30 s**.
 9. Pour the pearls into a clean **tub**.
 10. Add **hot water**.
-11. Add **4 spoons of sugar**. TODO(owner): tablespoons?
+11. Add **4 tbsp sugar**.
 
 ![Strainer for the pearls](../assets/procedures/opening/14-pearl-strainer.jpg){ width="200" loading=lazy }
 ![Shelf with the tubs](../assets/procedures/opening/15-tubs-shelf.jpg){ width="200" loading=lazy }
@@ -130,7 +130,8 @@ Nutella must be warmed up before it can be used.
 ## 12. Bingsu station
 
 1. Check the bingsu station for anything that needs topping up.
-2. Make sure there is enough for the day: soufflé cream, red bean, almond, strawberries, chocolate cream, and the other bingsu toppings. TODO(owner): the recording says "softlake cream". Is that the soufflé cream?
+2. Make sure there are enough bingsu toppings for the day: red bean, almond, strawberries, chocolate cream and the rest.
+3. Then check that there is **soufflé cream** in the fridge.
 
 ## 13. Batter and iced tea
 
@@ -138,7 +139,7 @@ Nutella must be warmed up before it can be used.
     - **3 jugs** of original batter
     - **2 jugs** of chocolate batter
 2. If there isn't enough, take a **3 L jug**, fill it with the batter made in advance, and add it.
-3. Check the **iced tea** in the fridge. There must always be **3 × 5 L**. If there are only 2 left, make more. TODO(owner): confirm "ICT" means iced tea.
+3. Check the **iced tea** in the fridge. There must always be **3 jugs of 5 L**. If there are only 2 left, make more.
 
 ![Batter jugs](../assets/procedures/opening/19-batter-jugs.jpg){ width="200" loading=lazy }
 ![Fridge with the iced tea](../assets/procedures/opening/20-fridge-iced-tea.jpg){ width="200" loading=lazy }
@@ -149,8 +150,7 @@ Nutella must be warmed up before it can be used.
 2. Turn on the **unicorn light** with its switch on the cord.
 3. Check that the cat sign shows **Open**.
 4. Turn on the light by the front window with the **switch on the floor**.
-
-TODO(owner): the recording mentions a few more front lights ("phần nước con tắt này", "cái loài, cái đèn"). Please name each light and its switch.
+5. Turn on **all the other lights** at the front, as in the photos below. Every light in the shop must be on.
 
 ![Front counter](../assets/procedures/opening/21-front-counter.jpg){ width="200" loading=lazy }
 ![Switch on the cord for the unicorn light](../assets/procedures/opening/22-unicorn-light-switch.jpg){ width="200" loading=lazy }
@@ -172,7 +172,7 @@ Print this and tick each item.
 - [ ] Ice cream full; vanilla and chocolate topped up from the freezer if half
 - [ ] Ice maker on, with water in the tank (if ice was below half)
 - [ ] Air-con on at 24 °C
-- [ ] Bingsu station stocked
+- [ ] Bingsu station stocked; soufflé cream in the fridge
 - [ ] Batter: 3 original + 2 chocolate jugs
-- [ ] Iced tea: 3 × 5 L in the fridge
+- [ ] Iced tea: 3 jugs of 5 L in the fridge
 - [ ] Front lights on, cat sign shows **Open**
