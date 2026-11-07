@@ -95,7 +95,7 @@ What goes into every item, on one page. For rush hour: **ingredients only, no me
 
 ## Milk tea
 
-**Every cup:** **1.5 scoops** pearls + **1 scoop** ice + the drink to almost full. Powder-base drinks: the ice goes in the mixing cup with the base.
+**Every cup:** **1.5 scoops** pearls + **1 scoop** ice + the drink to almost full. Powder-base drinks (including Matcha Strawberry): the ice goes in the mixing cup with the base.
 
 **Powder base (in the mixing cup):** the powder + **1 spoon** Coffee-mate + **1.5 shots** (45 ml) sugar syrup, then **1 scoop** ice, then fresh milk to **500–600 ml** (less milk when there are more toppings). Shake.
 
@@ -119,7 +119,7 @@ What goes into every item, on one page. For rush hour: **ingredients only, no me
 | [Super Oreo](milk-tea/super-oreo-bubble-milk-tea.md) | **1 tbsp** cocoa | Pearls, ice | Whipped cream, **1 tbsp** crushed Oreo, **2** wafer sticks, **1** whole Oreo |
 | [Oreo Cream Cheese](milk-tea/oreo-cream-cheese-bubble-milk-tea.md) | Milk tea | Pearls, ice | **3 spoons** soufflé cream, **1 tsp** crushed Oreo |
 | [Little Sweet Coffee](milk-tea/little-sweet-coffee.md) | Coffee | Coffee | **3 spoons** soufflé cream |
-| [Matcha Strawberry](milk-tea/matcha-strawberry.md) (700 ml cup) | **6 g** matcha | **3** muddled strawberries, strawberry sauce, ice | none |
+| [Matcha Strawberry](milk-tea/matcha-strawberry.md) (700 ml cup) | **6 g** matcha | **3** muddled strawberries, strawberry sauce | none |
 
 </div>
 
