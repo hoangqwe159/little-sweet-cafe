@@ -169,6 +169,18 @@ The photo of the finished item goes straight after the title. Add `.lsc-photo`: 
 ![Devil Waffle: the finished item](../../assets/recipes/waffles/devil-waffle.png){ .lsc-photo width="320" }
 ```
 
+### Step photo
+
+In an SOP, put each photo right under the step it shows, indented 4 spaces so it stays inside that step. Add `.lsc-step-photo` for a small thumbnail, and wrap it in a link to the same file so staff can tap it to see it bigger. Two photos on consecutive lines sit side by side. Resize photos to 1000 px wide and strip their metadata (phone photos carry GPS).
+
+```markdown
+1. Press the **red button** (start).
+
+    [![Pearl cooker panel: red start button](../assets/procedures/opening/03-pearl-cooker-start.jpg){ .lsc-step-photo loading=lazy }](../assets/procedures/opening/03-pearl-cooker-start.jpg)
+
+2. Check that the **2 boxes at the top left** light up red.
+```
+
 ### Photo grid
 
 Use a photo grid to let staff pick an item by its picture (recipe section pages). Each card is a photo and a bold name, both linking to the page.
