@@ -2,3 +2,6 @@
 *.swp
 .claude/settings.local.json
 build/
+
+# Owner source material (raw audio, full-size photos with GPS data). Not published.
+reference/

@@ -39,11 +39,11 @@ Staff guides for **Little Sweet Cafe**, Shop 10/2 Elkhorn Ave, Surfers Paradise.
 
     Onboarding and station training.
 
--   <span class="lsc-tile-icon lsc-soon">✅</span>
+-   [<span class="lsc-tile-icon">✅</span>](procedures/index.md)
 
-    **Procedures** · coming soon
+    [**Procedures**](procedures/index.md)
 
-    Opening, closing, cleaning, food safety, allergens.
+    Opening checklist. Closing, cleaning and food safety coming soon.
 
 -   <span class="lsc-tile-icon lsc-soon">🔧</span>
 
