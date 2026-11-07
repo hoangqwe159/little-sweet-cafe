@@ -146,16 +146,17 @@ Nutella must be warmed up before it can be used.
 
 ## 14. Front of shop
 
-1. Turn on the **lucky cat light**.
-2. Turn on the **unicorn light** with its switch on the cord.
-3. Check that the cat sign shows **Open**.
-4. Turn on the light by the front window with the **switch on the floor**.
+1. Turn on the **lucky cat light** on the front counter.
+2. Turn on the **unicorn light** with the switch on its cord, on the wall by the unicorn toys.
+3. Check that the cat sign on the door shows **WE ARE OPEN**.
+4. Turn on the light at the front window with the **switch on the floor** under the window.
 5. Turn on **all the other lights** at the front, as in the photos below. Every light in the shop must be on.
 
-![Front counter](../assets/procedures/opening/21-front-counter.jpg){ width="200" loading=lazy }
+![Lucky cat light on the front counter](../assets/procedures/opening/21-lucky-cat-light.jpg){ width="200" loading=lazy }
 ![Switch on the cord for the unicorn light](../assets/procedures/opening/22-unicorn-light-switch.jpg){ width="200" loading=lazy }
-![Light switch on the floor by the window](../assets/procedures/opening/23-floor-light-switch.jpg){ width="200" loading=lazy }
-![Front window and tables](../assets/procedures/opening/24-front-window.jpg){ width="200" loading=lazy }
+![Cat sign on the door showing WE ARE OPEN](../assets/procedures/opening/23-open-sign.jpg){ width="200" loading=lazy }
+![Light switch on the floor under the front window](../assets/procedures/opening/24-floor-light-switch.jpg){ width="200" loading=lazy }
+![Front window with the unicorn neon light](../assets/procedures/opening/25-front-window.jpg){ width="200" loading=lazy }
 
 ## Checklist
 
