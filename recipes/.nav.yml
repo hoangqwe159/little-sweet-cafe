@@ -3,6 +3,7 @@
 # New folders: add them below, or they won't appear in the menu.
 nav:
   - index.md
+  - quick-reference.md
   - Desserts:
       - Bubble Waffles: waffles
       - Soufflé Pancakes: souffle-pancakes

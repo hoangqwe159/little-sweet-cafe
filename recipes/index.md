@@ -2,6 +2,8 @@
 
 Build cards for every menu item. Tap a section, then tap the item. Each card has the photo, ingredients, allergens, steps and a check before serving.
 
+[⚡ Rush hour? Open the Quick Reference](quick-reference.md){ .md-button .md-button--primary }
+
 !!! danger "⚠️ Warning: allergens"
     Each card lists its allergens before the steps. If a customer asks about allergens and you are not sure, **do not guess**. Ask the shift lead.
 

@@ -55,6 +55,8 @@ Staff guides for **Little Sweet Cafe**, Shop 10/2 Elkhorn Ave, Surfers Paradise.
 
 ## Quick links
 
+[⚡ Recipe Quick Reference: all ingredients on one page](recipes/quick-reference.md){ .md-button .md-button--primary }
+
 <div class="grid cards lsc-items" markdown>
 
 -   [![Devil Waffle](assets/recipes/waffles/devil-waffle.png)](recipes/waffles/devil-waffle.md)
