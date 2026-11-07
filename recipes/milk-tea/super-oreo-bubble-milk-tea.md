@@ -17,9 +17,9 @@
 - Cocoa powder: **1 tbsp**
 - Coffee-mate: **1 spoon**
 - Sugar syrup: **1.5 shots** (45 ml)
-- Fresh milk: TODO(owner) ml
+- Fresh milk: until the mixing cup reaches **500–600 ml**
 - Pearls: **1.5 scoops**
-- Ice: **1 scoop**
+- Ice: **1 scoop**, in the mixing cup
 - Whipped cream: on top
 - Crushed Oreo: **1 tbsp**
 - Wafer sticks: **2**
@@ -37,16 +37,15 @@
 
 ## Steps
 
-1. Make the base: follow [Powder base](index.md#powder-base) with **1 tbsp** of cocoa powder (chocolate base).
+1. Make the base: follow [Powder base](index.md#powder-base) with **1 tbsp** of cocoa powder (chocolate base). Ice and milk go in the mixing cup.
 2. Add **1.5 scoops** of pearls to the cup.
-3. Add **1 scoop** of ice.
-4. Pour the chocolate base into the cup.
-5. Spray **whipped cream** on top.
-6. Sprinkle **1 tbsp** crushed Oreo on the cream.
-7. Add **2 wafer sticks**.
-8. Add **1 whole Oreo**, as in the photo.
-9. Add any **drink toppings** the customer ordered. See [Drink toppings](index.md#drink-toppings).
-10. Close the cup (seal or lid). See [Finish and seal](index.md#finish-and-seal).
+3. Pour the chocolate base (with the ice) into the cup.
+4. Spray **whipped cream** on top.
+5. Sprinkle **1 tbsp** crushed Oreo on the cream.
+6. Add **2 wafer sticks**.
+7. Add **1 whole Oreo**, as in the photo.
+8. Add any **drink toppings** the customer ordered. See [Drink toppings](index.md#drink-toppings).
+9. Close the cup (seal or lid). See [Finish and seal](index.md#finish-and-seal).
 
 ## Before serving
 

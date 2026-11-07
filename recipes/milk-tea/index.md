@@ -73,14 +73,16 @@ TODO(owner): cup size (ml).
 
 Taro, Matcha, Matcha Red Bean, Chocolate and Super Oreo use a powder base made with **fresh milk**:
 
-1. Put the powder in the shaker:
+1. Put the powder in the mixing cup (shaker):
     - **Taro:** 2 full spoons of taro powder
     - **Matcha:** 6 g of matcha powder (1.5 spoons)
     - **Chocolate:** 1 tbsp cocoa powder
 2. Add **1 spoon** of Coffee-mate.
 3. Add **1.5 shots** (45 ml) of sugar syrup.
-4. Add fresh milk. TODO(owner): how much (ml).
-5. Shake well until the powder is fully mixed in.
+4. Mix into a smooth base, with no lumps.
+5. Add **1 scoop** of ice.
+6. Add fresh milk until the mixing cup reaches **500–600 ml**. Use less milk (about 500 ml) when the drink has more toppings, more milk (about 600 ml) when it has fewer.
+7. Shake well until the powder is fully mixed in.
 
 TODO(owner): is the "spoon" for taro powder and Coffee-mate a teaspoon or a tablespoon?
 

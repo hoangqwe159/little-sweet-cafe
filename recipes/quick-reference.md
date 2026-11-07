@@ -51,7 +51,7 @@ What goes into every item, on one page. For rush hour: **ingredients only, no me
 
 **Every serve:** **3** pancakes (Uber Eats: **2**), **3–4 tbsp** soufflé cream, **1 scoop** ice cream (none for Uber Eats), icing sugar on top.
 
-**Batter for 1 serve:** meringue of **2** cold egg whites + **1.5 tbsp** sugar + **½ tsp** corn flour + a few drops of vanilla and lemon; yolk mix of **1** whole egg + **1** yolk + **1.5 tbsp** cake flour.
+**Batter for 1 serve (3 pancakes):** meringue of **2** cold egg whites + **1.5 tbsp** sugar + **½ tsp** corn flour + a few drops of vanilla and lemon; yolk mix of **1** whole egg + **1** yolk + **1.5 tbsp** cake flour. Cook **4.5 min** each side. Then **3–4 tbsp soufflé cream** on top.
 
 <div class="lsc-quick" markdown>
 
@@ -59,7 +59,7 @@ What goes into every item, on one page. For rush hour: **ingredients only, no me
 |---|---|---|
 | [Strawberry](souffle-pancakes/strawberry-souffle-pancake.md) | Strawberry | **4** strawberries, each cut in 4; strawberry powder |
 | [Oreo](souffle-pancakes/oreo-souffle-pancake.md) | Vanilla | **2 tsp** Oreo crumble, **1** whole Oreo |
-| [Matcha](souffle-pancakes/matcha-souffle-pancake.md) | Matcha | Matcha powder, **1** mint leaf |
+| [Matcha](souffle-pancakes/matcha-souffle-pancake.md) | Matcha | Matcha powder |
 | [Brown Sugar with Pearls](souffle-pancakes/brown-sugar-with-pearls-souffle-pancake.md) | Vanilla | **1.5 tbsp** black pearls, black sugar, black sugar sauce |
 | [Biscoff](souffle-pancakes/biscoff-souffle-pancake.md) | Caramel | **2 tsp** Biscoff crumble, **1** Biscoff biscuit |
 
@@ -95,9 +95,9 @@ What goes into every item, on one page. For rush hour: **ingredients only, no me
 
 ## Milk tea
 
-**Every cup:** **1.5 scoops** pearls + **1 scoop** ice + the drink to almost full.
+**Every cup:** **1.5 scoops** pearls + **1 scoop** ice + the drink to almost full. Powder-base drinks: the ice goes in the mixing cup with the base.
 
-**Powder base:** the powder + **1 spoon** Coffee-mate + **1.5 shots** (45 ml) sugar syrup + fresh milk. Shake.
+**Powder base (in the mixing cup):** the powder + **1 spoon** Coffee-mate + **1.5 shots** (45 ml) sugar syrup, then **1 scoop** ice, then fresh milk to **500–600 ml** (less milk when there are more toppings). Shake.
 
 <div class="lsc-map">
 <div class="lsc-map-row tea"><strong>Milk tea (made in advance)</strong> <span>Classic</span> <span>Oreo Cream Cheese</span></div>

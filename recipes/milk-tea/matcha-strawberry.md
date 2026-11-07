@@ -18,7 +18,7 @@ TODO(owner): photo of the finished drink.
 - Fresh strawberries: **3**, muddled
 - Strawberry sauce: drizzle on the bottom of the cup. TODO(owner): how much.
 - Ice: **1 scoop**
-- Matcha base, the same as the [Matcha Bubble Tea](matcha-bubble-tea.md): **6 g** matcha powder + **1 spoon** Coffee-mate + **1.5 shots** (45 ml) sugar syrup + fresh milk
+- Matcha base, the same as the [Matcha Bubble Tea](matcha-bubble-tea.md): **6 g** matcha powder + **1 spoon** Coffee-mate + **1.5 shots** (45 ml) sugar syrup + fresh milk until the mixing cup reaches **500–600 ml**
 
 !!! danger "⚠️ Warning: allergens"
     - Fresh milk: **milk**.

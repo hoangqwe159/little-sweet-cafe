@@ -55,7 +55,10 @@ The Pork Floss Soufflé Pancake is no longer sold.
 - Egg yolk: **1**
 - Cake flour: **1.5 tbsp**
 
-The soufflé cream is made in advance. Its recipe is not in these docs.
+**To serve:**
+
+- Soufflé cream (made in advance): **3–4 tbsp** on top of the pancakes. Its recipe is not in these docs.
+- Toppings and ice cream: see the item's card.
 
 !!! danger "⚠️ Warning: allergens"
     The pancakes contain **egg** and **wheat (gluten)**. Check the corn flour pack, because some Australian "cornflour" is made from wheat.
@@ -84,13 +87,15 @@ The soufflé cream is made in advance. Its recipe is not in these docs.
 15. Flip the pancakes.
 16. **Spray water** on the griddle surface again.
 17. Close the lid and cook for **4.5 min**.
-18. Take the pancakes out and follow the item's card for the toppings.
+18. Take the pancakes out and put them on the plate (or in the box).
+19. Spoon **3–4 tbsp soufflé cream** over the pancakes.
+20. Add the toppings from the item's card.
 
 TODO(owner): confirm the topping order on the item cards (pancakes → soufflé cream → toppings → icing sugar → ice cream).
 
 ## Dine-in
 
-Put **3 pancakes** on a plate, then follow the item's card.
+Put **3 pancakes** on a plate, spoon **3–4 tbsp soufflé cream** over them, then follow the item's card.
 
 ## Takeaway and Uber Eats
 

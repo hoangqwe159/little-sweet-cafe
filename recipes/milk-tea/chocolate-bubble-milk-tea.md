@@ -17,9 +17,9 @@
 - Cocoa powder: **1 tbsp**
 - Coffee-mate: **1 spoon**
 - Sugar syrup: **1.5 shots** (45 ml)
-- Fresh milk: TODO(owner) ml
+- Fresh milk: until the mixing cup reaches **500–600 ml**
 - Pearls: **1.5 scoops**
-- Ice: **1 scoop**
+- Ice: **1 scoop**, in the mixing cup
 
 !!! danger "⚠️ Warning: allergens"
     - Fresh milk: **milk**.
@@ -30,12 +30,11 @@
 
 ## Steps
 
-1. Make the base: follow [Powder base](index.md#powder-base) with **1 tbsp** of cocoa powder.
+1. Make the base: follow [Powder base](index.md#powder-base) with **1 tbsp** of cocoa powder (ice and milk go in the mixing cup).
 2. Add **1.5 scoops** of pearls to the cup.
-3. Add **1 scoop** of ice.
-4. Pour the chocolate base into the cup.
-5. Add any **drink toppings** the customer ordered. See [Drink toppings](index.md#drink-toppings).
-6. Close the cup (seal or lid). See [Finish and seal](index.md#finish-and-seal).
+3. Pour the chocolate base (with the ice) into the cup.
+4. Add any **drink toppings** the customer ordered. See [Drink toppings](index.md#drink-toppings).
+5. Close the cup (seal or lid). See [Finish and seal](index.md#finish-and-seal).
 
 ## Before serving
 

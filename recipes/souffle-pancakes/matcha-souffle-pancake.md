@@ -18,7 +18,6 @@
 - Soufflé cream (made in advance): **3–4 tbsp**
 - Matcha ice cream: **1 scoop** (not for Uber Eats)
 - Matcha powder: sprinkle on the soufflé cream
-- Mint leaf: **1**
 - Icing sugar: dust over the top
 
 !!! danger "⚠️ Warning: allergens"
@@ -35,10 +34,9 @@
 3. Put **3 pancakes** on a plate, as in the photo.
 4. Spoon **3–4 tbsp soufflé cream** over the pancakes.
 5. Sprinkle **matcha powder** over the soufflé cream.
-6. Put **1 mint leaf** on top of the cream.
-7. Dust **icing sugar** over the top.
-8. Add **1 scoop** of matcha ice cream on the side of the plate.
-9. Check that it looks like the photo, then serve.
+6. Dust **icing sugar** over the top.
+7. Add **1 scoop** of matcha ice cream on the side of the plate.
+8. Check that it looks like the photo, then serve.
 
 ## Before serving
 
