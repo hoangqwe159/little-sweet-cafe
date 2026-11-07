@@ -214,6 +214,22 @@
   }
 }
 
+/* ---------- Step photo: small thumbnail under the step it shows ---------- */
+.md-typeset img.lsc-step-photo {
+  display: inline-block;
+  width: 12rem;
+  max-width: calc(50% - 0.5rem);
+  height: auto;
+  margin: 0.2rem 0.4rem 0.2rem 0;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  vertical-align: top;
+  transition: box-shadow 0.15s;
+}
+
+.md-typeset a:hover img.lsc-step-photo {
+  box-shadow: 0 0.2rem 0.8rem rgba(233, 99, 137, 0.3);
+}
+
 /* ---------- Photo grids (recipe sections and items) ---------- */
 .md-typeset .grid.cards.lsc-items,
 .md-typeset .grid.cards.lsc-sections {
@@ -299,6 +315,14 @@
 
   .md-typeset ol:not([class]) > li::before {
     background: #000000;
+  }
+
+  .md-typeset img.lsc-step-photo {
+    width: 3.5cm;
+  }
+
+  .md-typeset li {
+    break-inside: avoid;
   }
 
   .md-header,
