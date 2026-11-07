@@ -27,12 +27,6 @@ Staff guides for **Little Sweet Cafe**, Shop 10/2 Elkhorn Ave, Surfers Paradise.
 
     Build cards for every dessert and drink, with photos.
 
--   [<span class="lsc-tile-icon">📖</span>](guide/style-guide.md)
-
-    [**Guide**](guide/style-guide.md)
-
-    How these docs look and how to write a new one.
-
 -   <span class="lsc-tile-icon lsc-soon">🎓</span>
 
     **Training** · coming soon

@@ -6,6 +6,9 @@ site_url: https://docs.littlesweetcafe.com.au/
 # the content folders into build/docs first. Run that script; don't run
 # `mkdocs build` directly.
 docs_dir: build/docs
+# The style guide (site/guide/) is for writers only: kept in the repo, not published.
+exclude_docs: |
+  guide/
 site_dir: build/site
 
 theme:

@@ -5,4 +5,3 @@ nav:
   - recipes
   - glob: "*"
     ignore_no_matches: true
-  - guide
